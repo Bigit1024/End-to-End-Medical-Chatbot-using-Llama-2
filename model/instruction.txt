@@ -4,3 +4,9 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 
 ## From the following link:
 https://huggingface.co/TheBloke/llama-2-7B-chat-GGML/tree/main
+
+## Details:
+Git LFS Details
+SHA256: 8daa9615cce30c259a9555b1cc250d461d1bc69980a274b44d7eda0be78076d8
+Pointer size: 135 Bytes
+Size of remote file: 3.79 GB
